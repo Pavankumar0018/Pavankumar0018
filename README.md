@@ -1,5 +1,5 @@
 ### Hi there, I'm Pavan👦,
-A Full Stack MERN and PHP Developer🎯 from India.
+A Full Stack MERN and PHP Laravel Developer🎯 from India.
 
 - 👨‍💻 Full Stack MERN and PHP Developer
 - 📫 How to reach at LinkedIn: [LinkedIn](https://www.linkedin.com/in/pavan-kumar018/)
