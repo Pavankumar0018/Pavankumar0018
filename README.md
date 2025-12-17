@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavan👦,
-A Full Stack MERN and PHP Laravel Developer🎯 from India.
+A Full Stack Vue.js and PHP Laravel Developer🎯 from India.
 
-- 👨‍💻 Full Stack MERN and PHP Developer
+- 👨‍💻 Full Stack Vue.js and PHP/Laravel Developer
 - 📫 How to reach at LinkedIn: [LinkedIn](https://www.linkedin.com/in/pavan-kumar018/)
 
 **Languages:**  
