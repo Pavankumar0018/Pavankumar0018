@@ -1,5 +1,5 @@
 ### Hi there, I'm Pavan👦,
-A Full Stack Vue.js and PHP Laravel Developer🎯 from India.
+A Full Stack React, Vue.js and PHP Laravel, Asp.net Developer🎯 from India.
 
 - 👨‍💻 Full Stack Vue.js and PHP/Laravel Developer
 - 📫 How to reach at LinkedIn: [LinkedIn](https://www.linkedin.com/in/pavan-kumar018/)
